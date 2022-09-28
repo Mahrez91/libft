@@ -1,4 +1,4 @@
 # Libft
 
-re-implementing basic C functions.
+Re-implementing basic C functions.
 Difficulty of the project 2/5.
